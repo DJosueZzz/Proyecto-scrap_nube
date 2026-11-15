@@ -1,5 +1,11 @@
 # Plataforma de Scraping, Visualización y Generación de Selectores LLM
 
+<!-- local-development:start -->
+## Desarrollo local
+
+Consulta [RUNNING.md](RUNNING.md) para ubicar cada componente, abrirlo en su IDE, compilarlo y conocer las comprobaciones realizadas y los requisitos pendientes.
+<!-- local-development:end -->
+
 **Carrera:** Ingeniería en Tecnologías de la Información  
 **Curso:** Computación en la Nube  
 **Profesor:** Andrés Joseph Jiménez Leandro  
